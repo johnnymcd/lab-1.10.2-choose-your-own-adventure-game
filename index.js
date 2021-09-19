@@ -1,4 +1,4 @@
-let userName = window.prompt('Please enter your name:')
+let userName = window.prompt('johnnymcd:')
 let userScore = 0;
 
 for(let i = 0; i < questions.length; i++){
